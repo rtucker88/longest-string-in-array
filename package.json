@@ -1,0 +1,22 @@
+{
+  "name": "longest-string-in-array",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtucker88/longest-string-in-array.git"
+  },
+  "author": "Ryan Tucker <rtucker88@gmail.com> (www.ryanctucker.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rtucker88/longest-string-in-array/issues"
+  },
+  "homepage": "https://github.com/rtucker88/longest-string-in-array#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
